@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ✨ I’m currently learning JavaScript and React 
-- 🌱 Working on my portfolio
+- 🌱 Working on building my portfolio
 - ⚡ Transitioning from HR to front-end development
 
 <!--
