@@ -1,7 +1,7 @@
 ### Hi there 👋
-- ✨ Learning JavaScript and React 
-- 🌱 Working on building my portfolio
-- ⚡ Transitioned from HR to front-end development
+✨ I'm a junior front end developer and I'm cureently focusing on deepening my knowledge of React 
+🌱 I've also recently developed an interest in animations
+⚡ I transitioned from HR to front-end development
 
 <!--
 **htmlena/htmlena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
