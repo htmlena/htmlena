@@ -1,6 +1,5 @@
 ### Hi there 👋
-- ✨ I'm a junior front end developer and I'm cureently focusing on deepening my knowledge of React 
-- 🌱 I've also recently developed an interest in animations
+- ✨ I'm a junior front end developer and I'm cureently focusing on deepening my knowledge of Next.js and Typescript
 - ⚡ I transitioned from HR to front-end development
 
 <!--
