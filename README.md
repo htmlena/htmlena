@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ✨ I'm a junior front end developer and I'm cureently focusing on deepening my knowledge of Vue and Typescript
+- ✨ I'm a front end developer working with Vue and Typescript
 - ⚡ I transitioned from HR to front-end development
 
 <!--
